@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 89c2187a22113094e81e52926f9e8c18
+  productGUID: 4569f8a0511b1c2448dc76f67fc16dc7
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: gusdnjsandtkdrb
+  productName: IT
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -284,6 +284,13 @@ PlayerSettings:
   AndroidAppBundleSizeToValidate: 150
   m_BuildTargetIcons: []
   m_BuildTargetPlatformIcons:
+  - m_BuildTarget: VisionOS
+    m_Icons:
+    - m_Textures: []
+      m_Width: 1024
+      m_Height: 1024
+      m_Kind: 0
+      m_SubKind: 
   - m_BuildTarget: Android
     m_Icons:
     - m_Textures: []
@@ -769,14 +776,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: gusdnjsandtkdrb
+  metroPackageName: IT
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: gusdnjsandtkdrb
+  metroApplicationDescription: IT
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -846,10 +853,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 50401998-b9cf-499b-892e-b3f77fe9e4f1
+  cloudProjectId: ffbe47cf-a0d3-4153-a202-3cf8feb267bc
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: gusdnjsandtkdrb
+  projectName: IT 2024-09-11_19-10-07
   organizationId: uberdog4168
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
