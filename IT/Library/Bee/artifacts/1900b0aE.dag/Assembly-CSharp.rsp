@@ -357,10 +357,20 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 -analyzer:"D:/Unity/Hub/Editor/2022.3.45f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"D:/Unity/Hub/Editor/2022.3.45f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
+"Assets/scripts/bad.cs"
+"Assets/scripts/Canvas.cs"
 "Assets/scripts/cuts.cs"
+"Assets/scripts/door.cs"
+"Assets/scripts/door2.cs"
+"Assets/scripts/Drawer.cs"
+"Assets/scripts/hand light.cs"
+"Assets/scripts/intro.cs"
 "Assets/scripts/open.cs"
 "Assets/scripts/pick up.cs"
 "Assets/scripts/player Move.cs"
+"Assets/scripts/problum.cs"
+"Assets/scripts/swtich.cs"
+"Assets/scripts/Title.cs"
 -langversion:9.0
 /deterministic
 /optimize+

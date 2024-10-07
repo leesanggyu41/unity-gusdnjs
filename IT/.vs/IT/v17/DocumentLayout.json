@@ -3,8 +3,56 @@
   "WorkspaceRootPath": "D:\\unity-gusdnjs-main\\IT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1466783F-E631-5AE3-153F-F190BD170412}|Assembly-CSharp.csproj|d:\\unity-gusdnjs-main\\it\\assets\\scripts\\player move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1466783F-E631-5AE3-153F-F190BD170412}|Assembly-CSharp.csproj|D:\\unity-gusdnjs-main\\IT\\assets\\scripts\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1466783F-E631-5AE3-153F-F190BD170412}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1466783F-E631-5AE3-153F-F190BD170412}|Assembly-CSharp.csproj|d:\\unity-gusdnjs-main\\it\\assets\\scripts\\bad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1466783F-E631-5AE3-153F-F190BD170412}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1466783F-E631-5AE3-153F-F190BD170412}|Assembly-CSharp.csproj|d:\\unity-gusdnjs-main\\it\\assets\\scripts\\intro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1466783F-E631-5AE3-153F-F190BD170412}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\intro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1466783F-E631-5AE3-153F-F190BD170412}|Assembly-CSharp.csproj|D:\\unity-gusdnjs-main\\IT\\assets\\scripts\\title.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1466783F-E631-5AE3-153F-F190BD170412}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\title.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1466783F-E631-5AE3-153F-F190BD170412}|Assembly-CSharp.csproj|D:\\unity-gusdnjs-main\\IT\\assets\\scripts\\swtich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1466783F-E631-5AE3-153F-F190BD170412}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\swtich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1466783F-E631-5AE3-153F-F190BD170412}|Assembly-CSharp.csproj|D:\\unity-gusdnjs-main\\IT\\assets\\scripts\\door2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1466783F-E631-5AE3-153F-F190BD170412}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\door2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1466783F-E631-5AE3-153F-F190BD170412}|Assembly-CSharp.csproj|D:\\unity-gusdnjs-main\\IT\\assets\\scripts\\problum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1466783F-E631-5AE3-153F-F190BD170412}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\problum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1466783F-E631-5AE3-153F-F190BD170412}|Assembly-CSharp.csproj|D:\\unity-gusdnjs-main\\IT\\assets\\scripts\\player move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1466783F-E631-5AE3-153F-F190BD170412}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1466783F-E631-5AE3-153F-F190BD170412}|Assembly-CSharp.csproj|D:\\unity-gusdnjs-main\\IT\\assets\\scripts\\hand light.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1466783F-E631-5AE3-153F-F190BD170412}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hand light.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1466783F-E631-5AE3-153F-F190BD170412}|Assembly-CSharp.csproj|D:\\unity-gusdnjs-main\\IT\\assets\\scripts\\pick up.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1466783F-E631-5AE3-153F-F190BD170412}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pick up.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1466783F-E631-5AE3-153F-F190BD170412}|Assembly-CSharp.csproj|D:\\unity-gusdnjs-main\\IT\\assets\\scripts\\canvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1466783F-E631-5AE3-153F-F190BD170412}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\canvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1466783F-E631-5AE3-153F-F190BD170412}|Assembly-CSharp.csproj|D:\\unity-gusdnjs-main\\IT\\assets\\scripts\\open.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1466783F-E631-5AE3-153F-F190BD170412}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\open.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1466783F-E631-5AE3-153F-F190BD170412}|Assembly-CSharp.csproj|D:\\unity-gusdnjs-main\\IT\\assets\\scripts\\drawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1466783F-E631-5AE3-153F-F190BD170412}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\drawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -13,35 +61,167 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            }
-          ]
-        },
-        {
           "DockedWidth": 62,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bad.cs",
+              "DocumentMoniker": "D:\\unity-gusdnjs-main\\IT\\Assets\\scripts\\bad.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\bad.cs",
+              "ToolTip": "D:\\unity-gusdnjs-main\\IT\\Assets\\scripts\\bad.cs",
+              "RelativeToolTip": "Assets\\scripts\\bad.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAASwCMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T07:08:18.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "intro.cs",
+              "DocumentMoniker": "D:\\unity-gusdnjs-main\\IT\\Assets\\scripts\\intro.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\intro.cs",
+              "ToolTip": "D:\\unity-gusdnjs-main\\IT\\Assets\\scripts\\intro.cs",
+              "RelativeToolTip": "Assets\\scripts\\intro.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T05:57:31.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "problum.cs",
+              "DocumentMoniker": "D:\\unity-gusdnjs-main\\IT\\Assets\\scripts\\problum.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\problum.cs",
+              "ToolTip": "D:\\unity-gusdnjs-main\\IT\\Assets\\scripts\\problum.cs",
+              "RelativeToolTip": "Assets\\scripts\\problum.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T08:50:50.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "door2.cs",
+              "DocumentMoniker": "D:\\unity-gusdnjs-main\\IT\\Assets\\scripts\\door2.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\door2.cs",
+              "ToolTip": "D:\\unity-gusdnjs-main\\IT\\Assets\\scripts\\door2.cs",
+              "RelativeToolTip": "Assets\\scripts\\door2.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwFcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T08:23:10.749Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "door.cs",
+              "DocumentMoniker": "D:\\unity-gusdnjs-main\\IT\\Assets\\scripts\\door.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\door.cs",
+              "ToolTip": "D:\\unity-gusdnjs-main\\IT\\Assets\\scripts\\door.cs",
+              "RelativeToolTip": "Assets\\scripts\\door.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAkwFIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T10:11:34.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "open.cs",
+              "DocumentMoniker": "D:\\unity-gusdnjs-main\\IT\\Assets\\scripts\\open.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\open.cs",
+              "ToolTip": "D:\\unity-gusdnjs-main\\IT\\Assets\\scripts\\open.cs",
+              "RelativeToolTip": "Assets\\scripts\\open.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T08:02:09.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Drawer.cs",
+              "DocumentMoniker": "D:\\unity-gusdnjs-main\\IT\\Assets\\scripts\\Drawer.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Drawer.cs",
+              "ToolTip": "D:\\unity-gusdnjs-main\\IT\\Assets\\scripts\\Drawer.cs",
+              "RelativeToolTip": "Assets\\scripts\\Drawer.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAqwCgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:02:16.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "pick up.cs",
+              "DocumentMoniker": "D:\\unity-gusdnjs-main\\IT\\Assets\\scripts\\pick up.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\pick up.cs",
+              "ToolTip": "D:\\unity-gusdnjs-main\\IT\\Assets\\scripts\\pick up.cs",
+              "RelativeToolTip": "Assets\\scripts\\pick up.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAmwDsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T08:13:02.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "swtich.cs",
+              "DocumentMoniker": "D:\\unity-gusdnjs-main\\IT\\Assets\\scripts\\swtich.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\swtich.cs",
+              "ToolTip": "D:\\unity-gusdnjs-main\\IT\\Assets\\scripts\\swtich.cs",
+              "RelativeToolTip": "Assets\\scripts\\swtich.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwC0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T01:14:17.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Title.cs",
+              "DocumentMoniker": "D:\\unity-gusdnjs-main\\IT\\Assets\\scripts\\Title.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Title.cs",
+              "ToolTip": "D:\\unity-gusdnjs-main\\IT\\Assets\\scripts\\Title.cs",
+              "RelativeToolTip": "Assets\\scripts\\Title.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T00:55:02.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "player Move.cs",
               "DocumentMoniker": "D:\\unity-gusdnjs-main\\IT\\Assets\\scripts\\player Move.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\player Move.cs",
               "ToolTip": "D:\\unity-gusdnjs-main\\IT\\Assets\\scripts\\player Move.cs",
               "RelativeToolTip": "Assets\\scripts\\player Move.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJQAAAABAAAA",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAywCYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T07:30:09.836Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-19T07:30:09.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "hand light.cs",
+              "DocumentMoniker": "D:\\unity-gusdnjs-main\\IT\\Assets\\scripts\\hand light.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\hand light.cs",
+              "ToolTip": "D:\\unity-gusdnjs-main\\IT\\Assets\\scripts\\hand light.cs",
+              "RelativeToolTip": "Assets\\scripts\\hand light.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwDIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T08:13:55.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Canvas.cs",
+              "DocumentMoniker": "D:\\unity-gusdnjs-main\\IT\\Assets\\scripts\\Canvas.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Canvas.cs",
+              "ToolTip": "D:\\unity-gusdnjs-main\\IT\\Assets\\scripts\\Canvas.cs",
+              "RelativeToolTip": "Assets\\scripts\\Canvas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T08:46:57.285Z"
             }
           ]
         }

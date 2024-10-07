@@ -132,14 +132,14 @@ public class SC_FPSController : MonoBehaviour
     {
         if (tidrb == true)
         {
-            transform.localScale = new Vector3(1f, 0.5f, 1f);
+            transform.localScale = new Vector3(2f, 1.5f, 2f);
             walkingSpeed = SitSpeed;
             runningSpeed = SitSpeed;
             jumpSpeed = SitJump;
         }
         else if (tidrb == false)
         {
-            transform.localScale = new Vector3(1f, 1f, 1f);
+            transform.localScale = new Vector3(2f, 3.5f, 2f);
             walkingSpeed = saveWalk;
             runningSpeed = saveRun;
             jumpSpeed = saveJump;
